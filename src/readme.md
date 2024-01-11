@@ -57,7 +57,9 @@
 ![A chto tut](./png/15.png)<br>
 
 - ``Пропингуем удаленные хосты 1.1.1.1 и ya.ru:``<br>
+![A chto tut](./png/16.png)<br>
 ![A chto tut](./png/17.png)<br>
+
 
 ## Part 4. Обновление ОС
 
