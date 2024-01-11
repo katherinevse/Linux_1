@@ -332,7 +332,7 @@ tcp 0 0 0.0.0.0:2022 0.0.0.0:* LISTEN `` <br>
 ### HTOP
 - ``Вывод команды htop:`` <br>
     ![A chto tut](./png/30.png)<br>
-    
+
 - ``Отсортированный по PID`` <br>
     ![A chto tut](./png/30pid.png)<br>
 
@@ -345,12 +345,16 @@ tcp 0 0 0.0.0.0:2022 0.0.0.0:* LISTEN `` <br>
 - ``Отсортированный по TIME`` <br>
     ![A chto tut](./png/30time.png)<br>
 
+- ``Отфильтрованному для процесса sshd`` <br>
+    ![A chto tut](./png/31.png)<br>
+
+- ``C процессом syslog, найденным, используя поиск `` <br>
+    ![A chto tut](./png/32.png)<br>
 
 
-  - отсортированному по PID, PERCENT_CPU, PERCENT_MEM, TIME
-  - отфильтрованному для процесса sshd
-  - с процессом syslog, найденным, используя поиск 
-  - с добавленным выводом hostname, clock и uptime  
+- ``C добавленным выводом hostname, clock и uptime  `` <br>
+    ![A chto tut](./png/33.png)<br>
+
 
 
 
