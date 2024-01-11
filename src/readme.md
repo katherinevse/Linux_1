@@ -355,6 +355,9 @@ tcp 0 0 0.0.0.0:2022 0.0.0.0:* LISTEN `` <br>
 - ``C добавленным выводом hostname, clock и uptime  `` <br>
     ![A chto tut](./png/33.png)<br>
 
+## Part 10. Использование утилиты fdisk
+
+
 
 
 
