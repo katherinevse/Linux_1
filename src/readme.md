@@ -264,6 +264,7 @@
     `F4`
 ![A chto tut](./png/24mceditz.png)<br>
 
+## Part 8. Установка и базовая настройка сервиса SSHD
 
 
 
