@@ -259,10 +259,10 @@
 - ``MCEDIT`` <br>
     - Поиск:
     `F7`
-![A chto tut](./png/23mcedits.png)<br>
+![A chto tut](./png/24mcedits.png)<br>
    - Замена:
     `F4`
-![A chto tut](./png/23mceditz.png)<br>
+![A chto tut](./png/24mceditz.png)<br>
 
 
 
