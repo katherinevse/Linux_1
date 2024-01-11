@@ -235,6 +235,35 @@
 - `` Проверим, что изменения не сохранились: `` <br>
 ![A chto tut](./png/23check.png)<br>
 
+### Поиск по слову в файлах
+
+
+- `` VIM`` <br>
+- Поиск:
+    `ESC + /<слово_для_поиска>`
+
+![A chto tut](./png/24vims.png)<br>
+   - Замена:
+    `:s/<заменяемое>/<заменитель>`
+
+![A chto tut](./png/24vimz.png)<br>
+
+- ``NANO `` <br>
+    - Поиск:
+    `Ctrl + W`
+![A chto tut](./png/24nanos.png)<br>
+   - Замена:
+    `Ctrl + \`
+![A chto tut](./png/24nanoz.png)<br>
+
+- ``MCEDIT`` <br>
+    - Поиск:
+    `F7`
+![A chto tut](./png/23mcedits.png)<br>
+   - Замена:
+    `F4`
+![A chto tut](./png/23mceditz.png)<br>
+
 
 
 
