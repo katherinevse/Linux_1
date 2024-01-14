@@ -410,7 +410,16 @@ tcp 0 0 0.0.0.0:2022 0.0.0.0:* LISTEN `` <br>
 
 ## Part 14. Работа с системными журналами
 
+cat /var/log/dmesg
+cat /var/log/syslog
+cat /var/log/auth.log
 
+
+- `TTY=pts/0 указывает на то, что операция производится в псевдотерминале (pseudo-terminal) ` <br>
+![A chto tut](./png/log.png)<br>
+
+- `sudo systemctl restart ssh -  В данном случае, система начала процесс остановки, успешно деактивировала службу SSH, остановила ее, а затем успешно запустила снова.` <br>
+![A chto tut](./png/44.png)<br>
 
 
 
