@@ -429,6 +429,12 @@ cat /var/log/auth.log
 ![A chto tut](./png/46.png)<br>
 - `Вывели список задач`
 ![A chto tut](./png/47.png)<br>
+- `Удалили все задачи вывели список` <br>
+![A chto tut](./png/48.png)<br>
+![A chto tut](./png/49.png)<br>
+
+
+
 
 
 
