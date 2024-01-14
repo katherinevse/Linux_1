@@ -414,7 +414,6 @@ cat /var/log/dmesg
 cat /var/log/syslog
 cat /var/log/auth.log
 
-
 - `TTY=pts/0 указывает на то, что операция производится в псевдотерминале (pseudo-terminal) ` <br>
 ![A chto tut](./png/log.png)<br>
 
@@ -422,6 +421,7 @@ cat /var/log/auth.log
 ![A chto tut](./png/44.png)<br>
 
 
+## Part 15. Использование планировщика заданий CRON
 
 
 
